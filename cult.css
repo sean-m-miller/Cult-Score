@@ -1,0 +1,39 @@
+img.wide_right{
+	float: right;
+	width:260px;
+	height:220px;
+}
+img.wide_left{
+	float: left;
+	width:260px;
+	height:220px;
+}
+img.tall_right{
+	float: right;
+	height:260px;
+	width:220px;
+}
+img.tall_left{
+	float: left;
+	height:260px;
+	width:220px;
+}
+body{
+	background-position: center left;
+    font-family: Haettenschweiler, Arial, sans-serif;
+	background-color: lightyellow
+}
+h1{
+	text-align: center;
+	color: brown;
+	font-size: 400%;}
+h2, h3{
+	text-align: center;
+	font-family: Verdana;
+	font-size: 200%;
+	color: indianred;}
+p {
+	text-align: left;
+	color: rgb(100, 100, 90);
+	font-family: Courier;
+	font-size: 150%;}
