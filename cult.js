@@ -1,6 +1,6 @@
 var elements = document.getElementsByClassName('hot');
 if(elements.length >= 1){
-	alert("hello!");
+	//alert("hello!");
 }
 var firstItem = elements[0];
 firstItem.textContent = 'hello';
