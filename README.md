@@ -1,3 +1,2 @@
 # Cult-Score
-First Web App!
-Currently a work in progress... 
+Waiting for API key... Coming Soon!
